@@ -1,7 +1,6 @@
-##### Technical Test Infracom #####
+##### Technical Test Mandiri #####
 
-- create database infracm
-- import table file to your mysql (file in email)
+- create database techmandiri
 - git clone project
 - run project -> mvn spring-boot:run
 
